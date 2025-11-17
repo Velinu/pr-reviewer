@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.bak
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+!/.env.example # if you have an example .env file
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db

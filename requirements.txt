@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# GitHub API
+PyGithub
+
+# LLM - Gemini
+langchain
+langchain-google-genai
+
+# RAG stack
+faiss-cpu
+huggingface-hub
+sentence-transformers
+
+# Utils
+pydantic
+requests
+langgraph
